@@ -4,5 +4,6 @@ You can find more of my projects at:
 
 * https://fgaz.me/projects
 * https://sr.ht/~fgaz/
+* https://codeberg.org/fgaz
 
 ...and more of my contributions may be indexed at [OpenHub](https://www.openhub.net/accounts/fgaz)
